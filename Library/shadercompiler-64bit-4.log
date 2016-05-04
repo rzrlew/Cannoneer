@@ -1,0 +1,179 @@
+Base path: C:/Program Files/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-4-6536
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=9 type=0 insize=982 outsize=18083 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF VERTEXLIGHT_ON _METALLICGLOSSMAP ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=982 outsize=19326 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _METALLICGLOSSMAP _NORMALMAP ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=982 outsize=7 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _METALLICGLOSSMAP ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=938 outsize=16454 kw=POINT SHADOWS_OFF _METALLICGLOSSMAP ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=938 outsize=18460 kw=SPOT SHADOWS_DEPTH SHADOWS_NATIVE _METALLICGLOSSMAP ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=938 outsize=15722 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE _METALLICGLOSSMAP ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=938 outsize=16819 kw=POINT SHADOWS_OFF _METALLICGLOSSMAP _NORMALMAP ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=938 outsize=16177 kw=DIRECTIONAL_COOKIE SHADOWS_OFF _METALLICGLOSSMAP _NORMALMAP ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=938 outsize=19805 kw=SPOT SHADOWS_DEPTH SHADOWS_SOFT SHADOWS_NATIVE _METALLICGLOSSMAP _NORMALMAP ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=938 outsize=17269 kw=DIRECTIONAL_COOKIE SHADOWS_SCREEN SHADOWS_NATIVE _METALLICGLOSSMAP _NORMALMAP ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=938 outsize=7 kw=SPOT SHADOWS_OFF _METALLICGLOSSMAP ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=938 outsize=7 kw=POINT SHADOWS_CUBE _METALLICGLOSSMAP ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=938 outsize=7 kw=POINT_COOKIE SHADOWS_CUBE SHADOWS_SOFT _METALLICGLOSSMAP ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=938 outsize=7 kw=DIRECTIONAL SHADOWS_OFF _METALLICGLOSSMAP _NORMALMAP ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=938 outsize=7 kw=POINT SHADOWS_CUBE _METALLICGLOSSMAP _NORMALMAP ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=938 outsize=7 kw=POINT SHADOWS_CUBE SHADOWS_SOFT _METALLICGLOSSMAP _NORMALMAP ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=1152 outsize=15056 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _METALLICGLOSSMAP ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=1152 outsize=7 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _METALLICGLOSSMAP _NORMALMAP ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=886 outsize=7244 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _METALLICGLOSSMAP ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=886 outsize=16309 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _METALLICGLOSSMAP ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=886 outsize=8763 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _METALLICGLOSSMAP _NORMALMAP ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=886 outsize=11014 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF VERTEXLIGHT_ON _METALLICGLOSSMAP _NORMALMAP ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=886 outsize=18872 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF VERTEXLIGHT_ON _METALLICGLOSSMAP _NORMALMAP ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=886 outsize=7 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _METALLICGLOSSMAP ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=886 outsize=6 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _METALLICGLOSSMAP _NORMALMAP ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=816 outsize=6434 kw=POINT SHADOWS_OFF _METALLICGLOSSMAP ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=816 outsize=6575 kw=POINT_COOKIE SHADOWS_OFF _METALLICGLOSSMAP ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=816 outsize=7505 kw=SPOT SHADOWS_DEPTH SHADOWS_NATIVE _METALLICGLOSSMAP ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=816 outsize=16405 kw=POINT SHADOWS_CUBE _METALLICGLOSSMAP ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=816 outsize=6467 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE _METALLICGLOSSMAP ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=816 outsize=15758 kw=POINT SHADOWS_OFF _METALLICGLOSSMAP _NORMALMAP ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=816 outsize=13736 kw=DIRECTIONAL SHADOWS_OFF _METALLICGLOSSMAP _NORMALMAP ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=816 outsize=7217 kw=POINT_COOKIE SHADOWS_OFF _METALLICGLOSSMAP _NORMALMAP ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=816 outsize=8147 kw=SPOT SHADOWS_DEPTH SHADOWS_NATIVE _METALLICGLOSSMAP _NORMALMAP ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=816 outsize=16677 kw=POINT SHADOWS_CUBE _METALLICGLOSSMAP _NORMALMAP ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=816 outsize=16873 kw=POINT_COOKIE SHADOWS_CUBE _METALLICGLOSSMAP _NORMALMAP ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=816 outsize=7499 kw=DIRECTIONAL_COOKIE SHADOWS_SCREEN SHADOWS_NATIVE _METALLICGLOSSMAP _NORMALMAP ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=816 outsize=6 kw=POINT SHADOWS_OFF _METALLICGLOSSMAP ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=816 outsize=7 kw=SPOT SHADOWS_OFF _METALLICGLOSSMAP ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=816 outsize=7 kw=DIRECTIONAL_COOKIE SHADOWS_OFF _METALLICGLOSSMAP ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=816 outsize=6 kw=DIRECTIONAL_COOKIE SHADOWS_SCREEN _METALLICGLOSSMAP ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=816 outsize=7 kw=POINT_COOKIE SHADOWS_CUBE _METALLICGLOSSMAP ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=816 outsize=7 kw=DIRECTIONAL_COOKIE SHADOWS_SCREEN SHADOWS_NATIVE _METALLICGLOSSMAP ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=816 outsize=6 kw=DIRECTIONAL SHADOWS_OFF _METALLICGLOSSMAP _NORMALMAP ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=816 outsize=7 kw=POINT_COOKIE SHADOWS_OFF _METALLICGLOSSMAP _NORMALMAP ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=816 outsize=6 kw=SPOT SHADOWS_DEPTH SHADOWS_NATIVE _METALLICGLOSSMAP _NORMALMAP ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=816 outsize=7 kw=POINT SHADOWS_CUBE _METALLICGLOSSMAP _NORMALMAP ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=816 outsize=7 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE _METALLICGLOSSMAP _NORMALMAP ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=1705 outsize=8605 kw=SOFTPARTICLES_ON ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=1705 outsize=6 kw=SOFTPARTICLES_ON ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=1642 outsize=7111 kw=SOFTPARTICLES_OFF ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=1642 outsize=6 kw=SOFTPARTICLES_ON ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=577 outsize=770 kw=SHADOWS_CUBE ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=577 outsize=7 kw=SHADOWS_DEPTH ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=6800 outsize=4884 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF VERTEXLIGHT_ON ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=6800 outsize=3849 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=6800 outsize=7 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=2795 outsize=5388 kw= ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=5985 outsize=7594 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF UNITY_HDR_ON ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=5985 outsize=7 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF UNITY_HDR_ON ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=5918 outsize=7503 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=5918 outsize=7 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF UNITY_HDR_ON ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=7080 outsize=6385 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF VERTEXLIGHT_ON ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=7080 outsize=13266 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=7080 outsize=14736 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF VERTEXLIGHT_ON ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=7080 outsize=6 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=3868 outsize=7621 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=6236 outsize=3330 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF UNITY_HDR_ON ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=6236 outsize=6 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF UNITY_HDR_ON ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=6948 outsize=9462 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=6948 outsize=7 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  error: 2 plat 9 at (40): 'tex2Dproj': no matching 2 parameter intrinsic function; Possible intrinsic functions are: tex2Dproj(sampler2D, float4|half4|min10float4|min16float4)\nCompiling Vertex program
+  api=9 type=0 insize=1623 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (40): 'tex2Dproj': no matching 2 parameter intrinsic function; Possible intrinsic functions are: tex2Dproj(sampler2D, float4|half4|min10float4|min16float4)\nCompiling Vertex program
+  api=9 type=0 insize=1623 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  api=9 type=0 insize=530 outsize=10687 kw= ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=530 outsize=10687 kw= ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=2986 outsize=9169 kw= ok=1
+Cmd: compileSnippet
+  error: 2 plat 9 at (40): 'tex2Dproj': no matching 2 parameter intrinsic function; Possible intrinsic functions are: tex2Dproj(sampler2D, float4|half4|min10float4|min16float4)\nCompiling Vertex program
+  api=9 type=0 insize=1623 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (40): 'tex2Dproj': no matching 2 parameter intrinsic function; Possible intrinsic functions are: tex2Dproj(sampler2D, float4|half4|min10float4|min16float4)\nCompiling Vertex program
+  api=9 type=0 insize=1623 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (40): 'tex2Dproj': no matching 2 parameter intrinsic function; Possible intrinsic functions are: tex2Dproj(sampler2D, float4|half4|min10float4|min16float4)\nCompiling Vertex program
+  api=9 type=0 insize=1623 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (40): 'tex2Dproj': no matching 2 parameter intrinsic function; Possible intrinsic functions are: tex2Dproj(sampler2D, float4|half4|min10float4|min16float4)\nCompiling Vertex program
+  api=9 type=0 insize=1623 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (40): 'tex2Dproj': no matching 2 parameter intrinsic function; Possible intrinsic functions are: tex2Dproj(sampler2D, float4|half4|min10float4|min16float4)\nCompiling Vertex program
+  api=9 type=0 insize=1623 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (40): 'tex2Dproj': no matching 2 parameter intrinsic function; Possible intrinsic functions are: tex2Dproj(sampler2D, float4|half4|min10float4|min16float4)\nCompiling Vertex program
+  api=9 type=0 insize=1623 outsize=0 kw= ok=0
+Unhandled exception: Readfile from pipe failed. GLE=The pipe has been ended.
+
+
+Quitting shader compiler process
